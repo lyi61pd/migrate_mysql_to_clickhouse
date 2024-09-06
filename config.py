@@ -1,0 +1,14 @@
+CLICKHOUSE_CONFIG={
+    "host":'10.0.11.11',
+    'user':'default',
+    'password':'123+',
+    'database':'vvv',
+    'port':'9090'
+}
+MYSQL_CONFIG={
+    "host":'10.0.11.11',
+    'user':'root',
+    'password':'123+',
+    'database':'vvv',
+    'port':'3306'
+}
